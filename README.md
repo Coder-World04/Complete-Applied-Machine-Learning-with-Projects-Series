@@ -310,3 +310,7 @@ Hyper-parameters Tuning
 Performance Metrics
 
 Validation curves
+
+# Applied Machine Learning Projects (40)
+
+Applied Machine Learning projects repo
