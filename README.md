@@ -3,314 +3,314 @@ This repository contains everything you need to become proficient in Applied Mac
 
 # Data Science using Python
 
-Pandas
+[Pandas](https://medium.com/coders-mojo/implemented-applied-machine-learning-projects-95294db9cd5?sk=a418f26d2b07b86cecbed625b5570ce8)
 
-Numpy
+[Numpy](https://medium.com/coders-mojo/implemented-applied-machine-learning-projects-95294db9cd5?sk=a418f26d2b07b86cecbed625b5570ce8)
 
-Advanced Pandas Techniques
+[Advanced Pandas Techniques](https://medium.com/coders-mojo/implemented-applied-machine-learning-projects-95294db9cd5?sk=a418f26d2b07b86cecbed625b5570ce8)
 
-Data Pre-processing
+[Data Pre-processing](https://medium.com/coders-mojo/implemented-applied-machine-learning-projects-95294db9cd5?sk=a418f26d2b07b86cecbed625b5570ce8)
 
-Handling missing values
+[Handling missing values](https://medium.com/coders-mojo/implemented-applied-machine-learning-projects-95294db9cd5?sk=a418f26d2b07b86cecbed625b5570ce8)
 
-Data Cleaning
+[Data Cleaning](https://medium.com/coders-mojo/implemented-applied-machine-learning-projects-95294db9cd5?sk=a418f26d2b07b86cecbed625b5570ce8)
 
-Mean/mode/median Imputation
+[Mean/mode/median Imputation](https://medium.com/coders-mojo/implemented-applied-machine-learning-projects-95294db9cd5?sk=a418f26d2b07b86cecbed625b5570ce8)
 
-Hot Deck Imputation
+[Hot Deck Imputation](https://medium.com/coders-mojo/implemented-applied-machine-learning-projects-95294db9cd5?sk=a418f26d2b07b86cecbed625b5570ce8)
 
-Rescale Data
+[Rescale Data](https://medium.com/coders-mojo/implemented-applied-machine-learning-projects-95294db9cd5?sk=a418f26d2b07b86cecbed625b5570ce8)
 
-Binarize Data
+[Binarize Data](https://medium.com/coders-mojo/implemented-applied-machine-learning-projects-95294db9cd5?sk=a418f26d2b07b86cecbed625b5570ce8)
 
-Regression Imputation
+[Regression Imputation](https://medium.com/coders-mojo/implemented-applied-machine-learning-projects-95294db9cd5?sk=a418f26d2b07b86cecbed625b5570ce8)
 
-Stochastic regression imputation
+[Stochastic regression imputation](https://medium.com/coders-mojo/implemented-applied-machine-learning-projects-95294db9cd5?sk=a418f26d2b07b86cecbed625b5570ce8)
 
-Feature Scaling
+[Feature Scaling](https://medium.com/coders-mojo/implemented-applied-machine-learning-projects-95294db9cd5?sk=a418f26d2b07b86cecbed625b5570ce8)
 
-Data Augmentation
+[Data Augmentation](https://medium.com/coders-mojo/implemented-applied-machine-learning-projects-95294db9cd5?sk=a418f26d2b07b86cecbed625b5570ce8)
 
-Read and Process Large Datasets
+[Read and Process Large Datasets](https://medium.com/coders-mojo/implemented-applied-machine-learning-projects-95294db9cd5?sk=a418f26d2b07b86cecbed625b5570ce8)
 
-Data Profiling
+[Data Profiling](https://medium.com/coders-mojo/implemented-applied-machine-learning-projects-95294db9cd5?sk=a418f26d2b07b86cecbed625b5570ce8)
 
-Summary Functions
+[Summary Functions](https://medium.com/coders-mojo/implemented-applied-machine-learning-projects-95294db9cd5?sk=a418f26d2b07b86cecbed625b5570ce8)
 
-Indexing
+[Indexing](https://medium.com/coders-mojo/implemented-applied-machine-learning-projects-95294db9cd5?sk=a418f26d2b07b86cecbed625b5570ce8)
 
-Grouping
+[Grouping](https://medium.com/coders-mojo/implemented-applied-machine-learning-projects-95294db9cd5?sk=a418f26d2b07b86cecbed625b5570ce8)
 
-Linear Regression
+[Linear Regression](https://medium.com/coders-mojo/implemented-applied-machine-learning-projects-95294db9cd5?sk=a418f26d2b07b86cecbed625b5570ce8)
 
-Multi Linear Regression
+[Multi Linear Regression](https://medium.com/coders-mojo/implemented-applied-machine-learning-projects-95294db9cd5?sk=a418f26d2b07b86cecbed625b5570ce8)
 
-Polynomial Regression
+[Polynomial Regression](https://medium.com/coders-mojo/implemented-applied-machine-learning-projects-95294db9cd5?sk=a418f26d2b07b86cecbed625b5570ce8)
 
-Regression
+[Regression](https://medium.com/coders-mojo/implemented-applied-machine-learning-projects-95294db9cd5?sk=a418f26d2b07b86cecbed625b5570ce8)
 
-Support Vector Regression
+[Support Vector Regression](https://medium.com/coders-mojo/implemented-applied-machine-learning-projects-95294db9cd5?sk=a418f26d2b07b86cecbed625b5570ce8)
 
-Decision Tree Regression
+[Decision Tree Regression](https://medium.com/coders-mojo/implemented-applied-machine-learning-projects-95294db9cd5?sk=a418f26d2b07b86cecbed625b5570ce8)
 
-Random Forest Regression
+[Random Forest Regression](https://medium.com/coders-mojo/implemented-applied-machine-learning-projects-95294db9cd5?sk=a418f26d2b07b86cecbed625b5570ce8)
 
-Feature Engineering
+[Feature Engineering](https://medium.com/coders-mojo/implemented-applied-machine-learning-projects-95294db9cd5?sk=a418f26d2b07b86cecbed625b5570ce8)
 
-GroupBy Features
+[GroupBy Features](https://medium.com/coders-mojo/implemented-applied-machine-learning-projects-95294db9cd5?sk=a418f26d2b07b86cecbed625b5570ce8)
 
-Categorical and Numerical Features
+[Categorical and Numerical Features](https://medium.com/coders-mojo/implemented-applied-machine-learning-projects-95294db9cd5?sk=a418f26d2b07b86cecbed625b5570ce8)
 
-Missing Value Analysis
+[Missing Value Analysis](https://medium.com/coders-mojo/implemented-applied-machine-learning-projects-95294db9cd5?sk=a418f26d2b07b86cecbed625b5570ce8)
 
-Fill the missing Values
+[Fill the missing Values](https://medium.com/coders-mojo/implemented-applied-machine-learning-projects-95294db9cd5?sk=a418f26d2b07b86cecbed625b5570ce8)
 
-Unique Value Analysis
+[Unique Value Analysis](https://medium.com/coders-mojo/implemented-applied-machine-learning-projects-95294db9cd5?sk=a418f26d2b07b86cecbed625b5570ce8)
 
-Univariate Analysis
+[Univariate Analysis](https://medium.com/coders-mojo/implemented-applied-machine-learning-projects-95294db9cd5?sk=a418f26d2b07b86cecbed625b5570ce8)
 
-Bivariate Analysis
+[Bivariate Analysis](https://medium.com/coders-mojo/implemented-applied-machine-learning-projects-95294db9cd5?sk=a418f26d2b07b86cecbed625b5570ce8)
 
-Multivariate Analysis
+[Multivariate Analysis](https://medium.com/coders-mojo/implemented-applied-machine-learning-projects-95294db9cd5?sk=a418f26d2b07b86cecbed625b5570ce8)
 
-Correlation Analysis
+[Correlation Analysis](https://medium.com/coders-mojo/implemented-applied-machine-learning-projects-95294db9cd5?sk=a418f26d2b07b86cecbed625b5570ce8)
 
-Spearman’s ρ
+[Spearman’s ρ](https://medium.com/coders-mojo/implemented-applied-machine-learning-projects-95294db9cd5?sk=a418f26d2b07b86cecbed625b5570ce8)
 
-Pearson’s r
+[Pearson’s r](https://medium.com/coders-mojo/implemented-applied-machine-learning-projects-95294db9cd5?sk=a418f26d2b07b86cecbed625b5570ce8)
 
-Kendall’s τ
+[Kendall’s τ](https://medium.com/coders-mojo/implemented-applied-machine-learning-projects-95294db9cd5?sk=a418f26d2b07b86cecbed625b5570ce8)
 
-Cramér’s V (φc)
+[Cramér’s V (φc)](https://medium.com/coders-mojo/implemented-applied-machine-learning-projects-95294db9cd5?sk=a418f26d2b07b86cecbed625b5570ce8)
 
-Phik (φk)
+[Phik (φk)](https://medium.com/coders-mojo/implemented-applied-machine-learning-projects-95294db9cd5?sk=a418f26d2b07b86cecbed625b5570ce8)
 
 # Data Visualization
 
-Data Visualization basics
+[Data Visualization basics](https://medium.com/coders-mojo/implemented-applied-machine-learning-projects-95294db9cd5?sk=a418f26d2b07b86cecbed625b5570ce8)
 
-Data Visualization Projects
+[Data Visualization Projects](https://medium.com/coders-mojo/implemented-applied-machine-learning-projects-95294db9cd5?sk=a418f26d2b07b86cecbed625b5570ce8)
 
-Data Visualization using Plotly and Bokeh
+[Data Visualization using Plotly and Bokeh](https://medium.com/coders-mojo/implemented-applied-machine-learning-projects-95294db9cd5?sk=a418f26d2b07b86cecbed625b5570ce8)
 
 # Statistics
 
-Random Variables
+[Random Variables](https://medium.com/coders-mojo/implemented-applied-machine-learning-projects-95294db9cd5?sk=a418f26d2b07b86cecbed625b5570ce8)
 
-Statistical Inferences
+[Statistical Inferences](https://medium.com/coders-mojo/implemented-applied-machine-learning-projects-95294db9cd5?sk=a418f26d2b07b86cecbed625b5570ce8)
 
-Probability
+[Probability](https://medium.com/coders-mojo/implemented-applied-machine-learning-projects-95294db9cd5?sk=a418f26d2b07b86cecbed625b5570ce8)
 
-Standard deviation and variance
+[Standard deviation and variance](https://medium.com/coders-mojo/implemented-applied-machine-learning-projects-95294db9cd5?sk=a418f26d2b07b86cecbed625b5570ce8)
 
-Statistical Distributions
+[Statistical Distributions](https://medium.com/coders-mojo/implemented-applied-machine-learning-projects-95294db9cd5?sk=a418f26d2b07b86cecbed625b5570ce8)
 
-Hypothesis Testing
+[Hypothesis Testing](https://medium.com/coders-mojo/implemented-applied-machine-learning-projects-95294db9cd5?sk=a418f26d2b07b86cecbed625b5570ce8)
 
-Normal distribution
+[Normal distribution](https://medium.com/coders-mojo/implemented-applied-machine-learning-projects-95294db9cd5?sk=a418f26d2b07b86cecbed625b5570ce8)
 
-t-distribution
+[t-distribution](https://medium.com/coders-mojo/implemented-applied-machine-learning-projects-95294db9cd5?sk=a418f26d2b07b86cecbed625b5570ce8)
 
-Bernoulli distribution
+[Bernoulli distribution](https://medium.com/coders-mojo/implemented-applied-machine-learning-projects-95294db9cd5?sk=a418f26d2b07b86cecbed625b5570ce8)
 
-Confidence intervals
+[Confidence intervals](https://medium.com/coders-mojo/implemented-applied-machine-learning-projects-95294db9cd5?sk=a418f26d2b07b86cecbed625b5570ce8)
 
 # Data Collection and Data Cleaning
 
-Data Collection
+[Data Collection](https://medium.com/coders-mojo/implemented-applied-machine-learning-projects-95294db9cd5?sk=a418f26d2b07b86cecbed625b5570ce8)
 
-Data Cleaning
+[Data Cleaning](https://medium.com/coders-mojo/implemented-applied-machine-learning-projects-95294db9cd5?sk=a418f26d2b07b86cecbed625b5570ce8)
 
 # Data Manipulation
 
-Join
+[Join](https://medium.com/coders-mojo/implemented-applied-machine-learning-projects-95294db9cd5?sk=a418f26d2b07b86cecbed625b5570ce8)
 
-Melt
+[Melt](https://medium.com/coders-mojo/implemented-applied-machine-learning-projects-95294db9cd5?sk=a418f26d2b07b86cecbed625b5570ce8)
 
-Cut
+[Cut](https://medium.com/coders-mojo/implemented-applied-machine-learning-projects-95294db9cd5?sk=a418f26d2b07b86cecbed625b5570ce8)
 
-Transform
+[Transform](https://medium.com/coders-mojo/implemented-applied-machine-learning-projects-95294db9cd5?sk=a418f26d2b07b86cecbed625b5570ce8)
 
-Clean
+[Clean](https://medium.com/coders-mojo/implemented-applied-machine-learning-projects-95294db9cd5?sk=a418f26d2b07b86cecbed625b5570ce8)
 
-Slicing
+[Slicing](https://medium.com/coders-mojo/implemented-applied-machine-learning-projects-95294db9cd5?sk=a418f26d2b07b86cecbed625b5570ce8)
 
-Reshaping
+[Reshaping](https://medium.com/coders-mojo/implemented-applied-machine-learning-projects-95294db9cd5?sk=a418f26d2b07b86cecbed625b5570ce8)
 
-Filter
+[Filter](https://medium.com/coders-mojo/implemented-applied-machine-learning-projects-95294db9cd5?sk=a418f26d2b07b86cecbed625b5570ce8)
 
-Group by
+[Group by](https://medium.com/coders-mojo/implemented-applied-machine-learning-projects-95294db9cd5?sk=a418f26d2b07b86cecbed625b5570ce8)
 
-Pivot and Merge
+[Pivot and Merge](https://medium.com/coders-mojo/implemented-applied-machine-learning-projects-95294db9cd5?sk=a418f26d2b07b86cecbed625b5570ce8)
 
-Concatenate
+[Concatenate](https://medium.com/coders-mojo/implemented-applied-machine-learning-projects-95294db9cd5?sk=a418f26d2b07b86cecbed625b5570ce8)
 
-MultiIndexing
+[MultiIndexing](https://medium.com/coders-mojo/implemented-applied-machine-learning-projects-95294db9cd5?sk=a418f26d2b07b86cecbed625b5570ce8)
 
-Stacking
+[Stacking](https://medium.com/coders-mojo/implemented-applied-machine-learning-projects-95294db9cd5?sk=a418f26d2b07b86cecbed625b5570ce8)
 
-Hierarchical indexing
+[Hierarchical indexing](https://medium.com/coders-mojo/implemented-applied-machine-learning-projects-95294db9cd5?sk=a418f26d2b07b86cecbed625b5570ce8)
 
-Aggregate
+[Aggregate](https://medium.com/coders-mojo/implemented-applied-machine-learning-projects-95294db9cd5?sk=a418f26d2b07b86cecbed625b5570ce8)
 
-Summarize data
+[Summarize data](https://medium.com/coders-mojo/implemented-applied-machine-learning-projects-95294db9cd5?sk=a418f26d2b07b86cecbed625b5570ce8)
 
 # Linear Algebra for Machine Learning
 
-Linear algebra concepts in Python
+[Linear algebra concepts in Python](https://medium.com/coders-mojo/implemented-applied-machine-learning-projects-95294db9cd5?sk=a418f26d2b07b86cecbed625b5570ce8)
 
-Matrix operations
+[Matrix operations](https://medium.com/coders-mojo/implemented-applied-machine-learning-projects-95294db9cd5?sk=a418f26d2b07b86cecbed625b5570ce8)
 
-Advanced linear algebra procedures
+[Advanced linear algebra procedures](https://medium.com/coders-mojo/implemented-applied-machine-learning-projects-95294db9cd5?sk=a418f26d2b07b86cecbed625b5570ce8)
 
 # Supervised Learning
 
-Regression
+[Regression](https://medium.com/coders-mojo/implemented-applied-machine-learning-projects-95294db9cd5?sk=a418f26d2b07b86cecbed625b5570ce8)
 
-Supervised learning with probabilistic models
+[Supervised learning with probabilistic models](https://medium.com/coders-mojo/implemented-applied-machine-learning-projects-95294db9cd5?sk=a418f26d2b07b86cecbed625b5570ce8)
 
-linear regression
+[linear regression](https://medium.com/coders-mojo/implemented-applied-machine-learning-projects-95294db9cd5?sk=a418f26d2b07b86cecbed625b5570ce8)
 
-Ordinary Least Squares
+[Ordinary Least Squares](https://medium.com/coders-mojo/implemented-applied-machine-learning-projects-95294db9cd5?sk=a418f26d2b07b86cecbed625b5570ce8)
 
-Linear Models
+[Linear Models](https://medium.com/coders-mojo/implemented-applied-machine-learning-projects-95294db9cd5?sk=a418f26d2b07b86cecbed625b5570ce8)
 
-Linear and Quadratic Discriminant Analysis
+[Linear and Quadratic Discriminant Analysis](https://medium.com/coders-mojo/implemented-applied-machine-learning-projects-95294db9cd5?sk=a418f26d2b07b86cecbed625b5570ce8)
 
-Support Vector Machines
+[Support Vector Machines](https://medium.com/coders-mojo/implemented-applied-machine-learning-projects-95294db9cd5?sk=a418f26d2b07b86cecbed625b5570ce8)
 
-Stochastic Gradient Descent
+[Stochastic Gradient Descent](https://medium.com/coders-mojo/implemented-applied-machine-learning-projects-95294db9cd5?sk=a418f26d2b07b86cecbed625b5570ce8)
 
-Nearest Neighbors
+[Nearest Neighbors](https://medium.com/coders-mojo/implemented-applied-machine-learning-projects-95294db9cd5?sk=a418f26d2b07b86cecbed625b5570ce8)
 
-Gaussian Processes
+[Gaussian Processes](https://medium.com/coders-mojo/implemented-applied-machine-learning-projects-95294db9cd5?sk=a418f26d2b07b86cecbed625b5570ce8)
 
-Cross decomposition
+[Cross decomposition](https://medium.com/coders-mojo/implemented-applied-machine-learning-projects-95294db9cd5?sk=a418f26d2b07b86cecbed625b5570ce8)
 
-Naive Bayes
+[Naive Bayes](https://medium.com/coders-mojo/implemented-applied-machine-learning-projects-95294db9cd5?sk=a418f26d2b07b86cecbed625b5570ce8)
 
-Decision Trees
+[Decision Trees](https://medium.com/coders-mojo/implemented-applied-machine-learning-projects-95294db9cd5?sk=a418f26d2b07b86cecbed625b5570ce8)
 
-Ensemble methods
+[Ensemble methods](https://medium.com/coders-mojo/implemented-applied-machine-learning-projects-95294db9cd5?sk=a418f26d2b07b86cecbed625b5570ce8)
 
-Feature selection
+[Feature selection](https://medium.com/coders-mojo/implemented-applied-machine-learning-projects-95294db9cd5?sk=a418f26d2b07b86cecbed625b5570ce8)
 
-Ridge Regression
+[Ridge Regression](https://medium.com/coders-mojo/implemented-applied-machine-learning-projects-95294db9cd5?sk=a418f26d2b07b86cecbed625b5570ce8)
 
-Bias-variance tradeoff
+[Bias-variance tradeoff](https://medium.com/coders-mojo/implemented-applied-machine-learning-projects-95294db9cd5?sk=a418f26d2b07b86cecbed625b5570ce8)
 
-Regression analysis
+[Regression analysis](https://medium.com/coders-mojo/implemented-applied-machine-learning-projects-95294db9cd5?sk=a418f26d2b07b86cecbed625b5570ce8)
 
-Bayesian Methods
+[Bayesian Methods](https://medium.com/coders-mojo/implemented-applied-machine-learning-projects-95294db9cd5?sk=a418f26d2b07b86cecbed625b5570ce8)
 
-Lagrange multipliers tool
+[Lagrange multipliers tool](https://medium.com/coders-mojo/implemented-applied-machine-learning-projects-95294db9cd5?sk=a418f26d2b07b86cecbed625b5570ce8)
 
-sparse regression model
+[sparse regression model](https://medium.com/coders-mojo/implemented-applied-machine-learning-projects-95294db9cd5?sk=a418f26d2b07b86cecbed625b5570ce8)
 
-estimate covariants
+[estimate covariants](https://medium.com/coders-mojo/implemented-applied-machine-learning-projects-95294db9cd5?sk=a418f26d2b07b86cecbed625b5570ce8)
 
-Bayesian linear regression
+[Bayesian linear regression](https://medium.com/coders-mojo/implemented-applied-machine-learning-projects-95294db9cd5?sk=a418f26d2b07b86cecbed625b5570ce8)
 
 # Classification Algorithms
 
-Classification using nearest neighbors
+[Classification using nearest neighbors](https://medium.com/coders-mojo/implemented-applied-machine-learning-projects-95294db9cd5?sk=a418f26d2b07b86cecbed625b5570ce8)
 
-K-nearest neighbors
+[K-nearest neighbors](https://medium.com/coders-mojo/implemented-applied-machine-learning-projects-95294db9cd5?sk=a418f26d2b07b86cecbed625b5570ce8)
 
-Bayes classifier
+[Bayes classifier](https://medium.com/coders-mojo/implemented-applied-machine-learning-projects-95294db9cd5?sk=a418f26d2b07b86cecbed625b5570ce8)
 
-Supervised learning classification
+[Supervised learning classification](https://medium.com/coders-mojo/implemented-applied-machine-learning-projects-95294db9cd5?sk=a418f26d2b07b86cecbed625b5570ce8)
 
-perceptron algorithm
+[perceptron algorithm](https://medium.com/coders-mojo/implemented-applied-machine-learning-projects-95294db9cd5?sk=a418f26d2b07b86cecbed625b5570ce8)
 
 # Logistic Regression
 
-Kernel Methods
+[Kernel Methods](https://medium.com/coders-mojo/implemented-applied-machine-learning-projects-95294db9cd5?sk=a418f26d2b07b86cecbed625b5570ce8)
 
-Gaussian Processes
+[Gaussian Processes](https://medium.com/coders-mojo/implemented-applied-machine-learning-projects-95294db9cd5?sk=a418f26d2b07b86cecbed625b5570ce8)
 
-kernel
+[kernel](https://medium.com/coders-mojo/implemented-applied-machine-learning-projects-95294db9cd5?sk=a418f26d2b07b86cecbed625b5570ce8)
 
-kernelized perceptron
+[kernelized perceptron](https://medium.com/coders-mojo/implemented-applied-machine-learning-projects-95294db9cd5?sk=a418f26d2b07b86cecbed625b5570ce8)
 
 # Support Vector Machines and Decision Trees
 
-Hyperplanes with maximum margin method
+[Hyperplanes with maximum margin method](https://medium.com/coders-mojo/implemented-applied-machine-learning-projects-95294db9cd5?sk=a418f26d2b07b86cecbed625b5570ce8)
 
-SVM
+[SVM](https://medium.com/coders-mojo/implemented-applied-machine-learning-projects-95294db9cd5?sk=a418f26d2b07b86cecbed625b5570ce8)
 
-decision tree-based classifiers
+[decision tree-based classifiers](https://medium.com/coders-mojo/implemented-applied-machine-learning-projects-95294db9cd5?sk=a418f26d2b07b86cecbed625b5570ce8)
 
-Grid search hyperparameters
+[Grid search hyperparameters](https://medium.com/coders-mojo/implemented-applied-machine-learning-projects-95294db9cd5?sk=a418f26d2b07b86cecbed625b5570ce8)
 
 # Boosting and K-Means Clustering
 
-Bagging and boosting techniques
+[Bagging and boosting techniques](https://medium.com/coders-mojo/implemented-applied-machine-learning-projects-95294db9cd5?sk=a418f26d2b07b86cecbed625b5570ce8)
 
-Characteristics of K-means tools
+[Characteristics of K-means tools](https://medium.com/coders-mojo/implemented-applied-machine-learning-projects-95294db9cd5?sk=a418f26d2b07b86cecbed625b5570ce8)
 
-Label encoder
+[Label encoder](https://medium.com/coders-mojo/implemented-applied-machine-learning-projects-95294db9cd5?sk=a418f26d2b07b86cecbed625b5570ce8)
 
 # Unsupervised Learning
 
-Clustering Methods
+[Clustering Methods](https://medium.com/coders-mojo/implemented-applied-machine-learning-projects-95294db9cd5?sk=a418f26d2b07b86cecbed625b5570ce8)
 
-K-means
+[K-means](https://medium.com/coders-mojo/implemented-applied-machine-learning-projects-95294db9cd5?sk=a418f26d2b07b86cecbed625b5570ce8)
 
-soft K-means
+[soft K-means](https://medium.com/coders-mojo/implemented-applied-machine-learning-projects-95294db9cd5?sk=a418f26d2b07b86cecbed625b5570ce8)
 
-Gaussian mixture model
+[Gaussian mixture model](https://medium.com/coders-mojo/implemented-applied-machine-learning-projects-95294db9cd5?sk=a418f26d2b07b86cecbed625b5570ce8)
 
-Principal Component Analysis and Markov Models
+[Principal Component Analysis and Markov Models](https://medium.com/coders-mojo/implemented-applied-machine-learning-projects-95294db9cd5?sk=a418f26d2b07b86cecbed625b5570ce8)
 
-PCA basics
+[PCA basics](https://medium.com/coders-mojo/implemented-applied-machine-learning-projects-95294db9cd5?sk=a418f26d2b07b86cecbed625b5570ce8)
 
-Implement PCA
+[Implement PCA](https://medium.com/coders-mojo/implemented-applied-machine-learning-projects-95294db9cd5?sk=a418f26d2b07b86cecbed625b5570ce8)
 
-Implement Markov chains using quantecon
+[Implement Markov chains using quantecon](https://medium.com/coders-mojo/implemented-applied-machine-learning-projects-95294db9cd5?sk=a418f26d2b07b86cecbed625b5570ce8)
 
-Hidden Markov Models and Kalman Filtering
+[Hidden Markov Models and Kalman Filtering](https://medium.com/coders-mojo/implemented-applied-machine-learning-projects-95294db9cd5?sk=a418f26d2b07b86cecbed625b5570ce8)
 
-Hidden Markov Model
+[Hidden Markov Model](https://medium.com/coders-mojo/implemented-applied-machine-learning-projects-95294db9cd5?sk=a418f26d2b07b86cecbed625b5570ce8)
 
-Markov models
+[Markov models](https://medium.com/coders-mojo/implemented-applied-machine-learning-projects-95294db9cd5?sk=a418f26d2b07b86cecbed625b5570ce8)
 
-Gaussian models
+[Gaussian models](https://medium.com/coders-mojo/implemented-applied-machine-learning-projects-95294db9cd5?sk=a418f26d2b07b86cecbed625b5570ce8)
 
-Forward/backward algorithm
+[Forward/backward algorithm](https://medium.com/coders-mojo/implemented-applied-machine-learning-projects-95294db9cd5?sk=a418f26d2b07b86cecbed625b5570ce8)
 
 # Modeling
 
-Model Training and Evaluation
+[Model Training and Evaluation](https://medium.com/coders-mojo/implemented-applied-machine-learning-projects-95294db9cd5?sk=a418f26d2b07b86cecbed625b5570ce8)
 
-Model Baselines
+[Model Baselines](https://medium.com/coders-mojo/implemented-applied-machine-learning-projects-95294db9cd5?sk=a418f26d2b07b86cecbed625b5570ce8)
 
-Model Tuning and Optimization
+[Model Tuning and Optimization](https://medium.com/coders-mojo/implemented-applied-machine-learning-projects-95294db9cd5?sk=a418f26d2b07b86cecbed625b5570ce8)
 
-Model Review and governance
+[Model Review and governance](https://medium.com/coders-mojo/implemented-applied-machine-learning-projects-95294db9cd5?sk=a418f26d2b07b86cecbed625b5570ce8)
 
-Automated Model retraining
+[Automated Model retraining](https://medium.com/coders-mojo/implemented-applied-machine-learning-projects-95294db9cd5?sk=a418f26d2b07b86cecbed625b5570ce8)
 
-Model Deployment and monitoring
+[Model Deployment and monitoring](https://medium.com/coders-mojo/implemented-applied-machine-learning-projects-95294db9cd5?sk=a418f26d2b07b86cecbed625b5570ce8)
 
-Model Inference and Serving
+[Model Inference and Serving](https://medium.com/coders-mojo/implemented-applied-machine-learning-projects-95294db9cd5?sk=a418f26d2b07b86cecbed625b5570ce8)
 
-Model Resource Management Techniques
+[Model Resource Management Techniques](https://medium.com/coders-mojo/implemented-applied-machine-learning-projects-95294db9cd5?sk=a418f26d2b07b86cecbed625b5570ce8)
 
-Model Analysis
+[Model Analysis](https://medium.com/coders-mojo/implemented-applied-machine-learning-projects-95294db9cd5?sk=a418f26d2b07b86cecbed625b5570ce8)
 
-High-Performance Modeling
+[High-Performance Modeling](https://medium.com/coders-mojo/implemented-applied-machine-learning-projects-95294db9cd5?sk=a418f26d2b07b86cecbed625b5570ce8)
 
 # Model selection and evaluation
 
-Cross-validation
+[Cross-validation](https://medium.com/coders-mojo/implemented-applied-machine-learning-projects-95294db9cd5?sk=a418f26d2b07b86cecbed625b5570ce8)
 
-Hyper-parameters Tuning
+[Hyper-parameters Tuning](https://medium.com/coders-mojo/implemented-applied-machine-learning-projects-95294db9cd5?sk=a418f26d2b07b86cecbed625b5570ce8)
 
-Performance Metrics
+[Performance Metrics](https://medium.com/coders-mojo/implemented-applied-machine-learning-projects-95294db9cd5?sk=a418f26d2b07b86cecbed625b5570ce8)
 
-Validation curves
+[Validation curves](https://medium.com/coders-mojo/implemented-applied-machine-learning-projects-95294db9cd5?sk=a418f26d2b07b86cecbed625b5570ce8)
 
 # Applied Machine Learning Projects (40)
 
-Applied Machine Learning projects repo
+[Applied Machine Learning projects repo](https://medium.com/coders-mojo/implemented-applied-machine-learning-projects-95294db9cd5?sk=a418f26d2b07b86cecbed625b5570ce8)
