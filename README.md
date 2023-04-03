@@ -311,6 +311,6 @@ This repository contains everything you need to become proficient in Applied Mac
 
 [Validation curves](https://medium.com/coders-mojo/implemented-applied-machine-learning-projects-95294db9cd5?sk=a418f26d2b07b86cecbed625b5570ce8)
 
-# Applied Machine Learning Projects (40)
+# Applied Machine Learning Projects(40)
 
 [Applied Machine Learning projects repo](https://medium.com/coders-mojo/implemented-applied-machine-learning-projects-95294db9cd5?sk=a418f26d2b07b86cecbed625b5570ce8)
