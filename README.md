@@ -85,14 +85,16 @@ Cramér’s V (φc)
 
 Phik (φk)
 
-Data Visualization
+# Data Visualization
+
 Data Visualization basics
 
 Data Visualization Projects
 
 Data Visualization using Plotly and Bokeh
 
-Statistics
+# Statistics
+
 Random Variables
 
 Statistical Inferences
@@ -111,14 +113,16 @@ t-distribution
 
 Bernoulli distribution
 
-confidence intervals
+Confidence intervals
 
-Data Collection and Data Cleaning
+# Data Collection and Data Cleaning
+
 Data Collection
 
 Data Cleaning
 
-Data Manipulation
+# Data Manipulation
+
 Join
 
 Melt
@@ -151,14 +155,16 @@ Aggregate
 
 Summarize data
 
-Linear Algebra for Machine Learning
+# Linear Algebra for Machine Learning
+
 Linear algebra concepts in Python
 
 Matrix operations
 
 Advanced linear algebra procedures
 
-Supervised Learning
+# Supervised Learning
+
 Regression
 
 Supervised learning with probabilistic models
@@ -205,7 +211,8 @@ estimate covariants
 
 Bayesian linear regression
 
-Classification Algorithms
+# Classification Algorithms
+
 Classification using nearest neighbors
 
 K-nearest neighbors
@@ -216,7 +223,8 @@ Supervised learning classification
 
 perceptron algorithm
 
-Logistic Regression
+# Logistic Regression
+
 Kernel Methods
 
 Gaussian Processes
@@ -225,7 +233,8 @@ kernel
 
 kernelized perceptron
 
-Support Vector Machines and Decision Trees
+# Support Vector Machines and Decision Trees
+
 Hyperplanes with maximum margin method
 
 SVM
@@ -234,16 +243,19 @@ decision tree-based classifiers
 
 Grid search hyperparameters
 
-Boosting and K-Means Clustering
+# Boosting and K-Means Clustering
+
 Bagging and boosting techniques
 
 Characteristics of K-means tools
 
 Label encoder
 
-Unsupervised Learning
+# Unsupervised Learning
+
 Clustering Methods
-K-means,
+
+K-means
 
 soft K-means
 
@@ -267,7 +279,8 @@ Gaussian models
 
 Forward/backward algorithm
 
-Modeling
+# Modeling
+
 Model Training and Evaluation
 
 Model Baselines
@@ -288,7 +301,8 @@ Model Analysis
 
 High-Performance Modeling
 
-Model selection and evaluation
+# Model selection and evaluation
+
 Cross-validation
 
 Hyper-parameters Tuning
